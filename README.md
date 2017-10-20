@@ -1,2 +1,10 @@
-# NyReact
-React-based rendition of the NYT Article Search application. Using Node, Express and Mongo so that users can save/search articles to read later.
+Overview
+
+A React-based tool that allows users to search for and save articles from The New York Times.
+
+This project utilizes the following technologies:
+
+-Node
+-Express
+-MongoDB
+-React
